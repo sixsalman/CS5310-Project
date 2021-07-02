@@ -10,7 +10,7 @@ import java.util.*;
  * It also calculates and prints time spent on each algorithm for number of edges ranging from 500 to 5000 with
  * intervals of 500 and 20 number of trials. It then asks user whether he/she want to give path to a file that contains
  * information about edges of a graph and if the user chooses to do so, minimum spanning trees for that graph are
- * calculated and printed.
+ * calculated and printed
  *
  * @author M. Salman Khan
  */
